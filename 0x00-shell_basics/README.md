@@ -1,1 +1,1 @@
-bash scripts
+#Bash Scripts containing basic linux commands
